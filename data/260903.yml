@@ -1,0 +1,57 @@
+about:
+  description: A slightly quackers Docker TUI based on k9s 🦆
+  license: MIT
+  homepage: https://ducker.soane.io
+  head: 4fa9d86
+  archived: false
+  latestVersion: v0.6.5
+  collectedAt: 2026-09-03T04:50:44Z
+timeline:
+  created: 2024-06-15
+  lastCommit: 2026-08-01
+  lastRelease: 2026-03-21
+popularity:
+  star: 922
+  watcher: 5
+  fork: 26
+  release: 38
+  contributor: 11
+  pullRequest: 79
+  issue: 19
+language:
+  Rust: 206625
+  Shell: 679
+totalLine: 207304
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 4
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 10
+    openPR: 6
+    closedIssue: 0
+    openIssue: 1
+    commit: 8
+  last360d:
+    since: 2025-09-08
+    release: 15
+    mergedPR: 74
+    openPR: 7
+    closedIssue: 0
+    openIssue: 1
+    commit: 74
