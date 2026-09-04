@@ -7,7 +7,7 @@ about:
   head: 4fa9d86
   archived: false
   latestVersion: v0.6.5
-  collectedAt: 2026-09-04T19:54:46Z
+  collectedAt: 2026-09-04T20:45:24Z
 timeline:
   created: 2024-06-15
   lastCommit: 2026-08-01
@@ -81,5 +81,43 @@ total:
   openIssue: 8
   commit: 276
 ---
+path: /home/runner/.x-repo/github.com/robertpsoane/ducker
+collectedAt: 2026-09-04T20:45:25Z
+loc:
+  Rust:
+    code: 5677
+    comments: 359
+    blanks: 820
+    files: 59
+  Json:
+    code: 2747
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 58
+    comments: 1
+    blanks: 6
+    files: 1
+  Sh:
+    code: 16
+    comments: 6
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 739
+    blanks: 332
+    files: 9
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 8511
+  comments: 1204
+  blanks: 1178
+  files: 73
 ---
 
