@@ -5,13 +5,13 @@ about:
   head: 4fa9d86
   archived: false
   latestVersion: "v0.6.5"
-  collectedAt: 2026-09-07T04:38:27Z
+  collectedAt: 2026-09-07T19:50:38Z
 timeline:
   created: 2024-06-15
   lastCommit: 2026-08-01
   lastRelease: 2026-03-21
 popularity:
-  star: 926
+  star: 925
   watcher: 5
   fork: 26
   release: 38
@@ -80,7 +80,7 @@ total:
   commit: 276
 ---
 path: /home/runner/.x-repo/github.com/robertpsoane/ducker
-collectedAt: 2026-09-07T04:38:29Z
+collectedAt: 2026-09-07T19:50:40Z
 loc:
   Rust:
     code: 5677
@@ -121,7 +121,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:29+00:00
+  collectedAt: 2026-09-07T19:50:42+00:00
   platform:
     darwin/arm64:
       name:  null
