@@ -124,4 +124,3 @@ total:
 ---
 
 ---
-{"id":299804584,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMJqEDc4R3qeo","tag_name":"v0.6.5","target_commitish":"master","name":"v0.6.5","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-03-21T21:08:05Z","updated_at":"2026-03-21T21:08:08Z","published_at":"2026-03-21T21:08:07Z","assets":[],"body":"### Other\n\n- *(deps)* bump clap from 4.5.60 to 4.6.0 ([#293](https://github.com/robertpsoane/ducker/pull/293))\n- *(deps)* bump tempfile from 3.26.0 to 3.27.0 ([#295](https://github.com/robertpsoane/ducker/pull/295))\n- *(deps)* bump tracing-subscriber from 0.3.22 to 0.3.23 ([#294](https://github.com/robertpsoane/ducker/pull/294))"}
