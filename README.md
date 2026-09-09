@@ -7,7 +7,7 @@ A slightly quackers Docker TUI based on k9s 🦆
 - **Latest release**: `v0.6.5` (2026-03-21)
 - **Last commit**: 2026-08-01
 - **License**: MIT
-- **Stars**: 925 · **Forks**: 26 · **Open issues**: 19 · **Contributors**: 11
+- **Stars**: 926 · **Forks**: 26 · **Open issues**: 19 · **Contributors**: 11
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/ducker> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:38:06Z._
+_Last regenerated: 2026-09-09T04:55:46Z._
