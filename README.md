@@ -12,6 +12,18 @@ A slightly quackers Docker TUI based on k9s 🦆
 x install ducker
 ```
 
+## Code insight
+
+Total: **8,498** lines of code across **72** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 5,677 | 359 | 820 | 59 |
+| Json | 2,747 | 0 | 0 | 2 |
+| Toml | 58 | 1 | 6 | 1 |
+| Sh | 16 | 6 | 10 | 1 |
+| Markdown | 0 | 739 | 332 | 9 |
+
 ## Source
 
 - **Upstream**: <https://github.com/robertpsoane/ducker>
@@ -25,7 +37,7 @@ x install ducker
 
 ## Popularity
 
-- **Stars**: 928 · **Forks**: 26 · **Open issues**: 19 · **Contributors**: 11
+- **Stars**: 930 · **Forks**: 26 · **Open issues**: 19 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -36,20 +48,21 @@ x install ducker
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 4 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 1 | 7 | 6 | 0 | 1 | 7 |
 | 360d | 2025-09-15 | 15 | 71 | 7 | 0 | 1 | 74 |
+| last720d | 2024-09-20 | 26 | 135 | 7 | 6 | 7 | 139 |
 
-## Code size
+## Distribution status
 
-Total: **8,498** lines of code across **72** files in the top 5 languages.
+Reported by **8** distros on [repology.org](https://repology.org/project/ducker). **8** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 5,677 | 359 | 820 | 59 |
-| Json | 2,747 | 0 | 0 | 2 |
-| Toml | 58 | 1 | 6 | 1 |
-| Sh | 16 | 6 | 10 | 1 |
-| Markdown | 0 | 739 | 332 | 9 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.6.5` | ✅ latest |
+| Homebrew | `0.6.5` | ✅ latest |
+| Nix unstable | `0.6.5` | ✅ latest |
 
 ## Improve this data
 
@@ -60,4 +73,4 @@ Install metadata for ducker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:24:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:01:07Z._
