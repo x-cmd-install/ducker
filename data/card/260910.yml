@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.5"
   latestRelease: "v0.6.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:44:57Z
+  collectedAt: 2026-09-10T16:24:43Z
 timeline:
   created: 2024-06-15
   lastCommit: 2026-08-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-21
   lastPrerelease: 
 popularity:
-  star: 927
+  star: 928
   watcher: 5
   fork: 26
   release: 38
@@ -84,7 +84,7 @@ total:
   commit: 276
 ---
 path: /home/runner/.x-repo/github.com/robertpsoane/ducker
-collectedAt: 2026-09-10T04:44:59Z
+collectedAt: 2026-09-10T16:24:44Z
 loc:
   Rust:
     code: 5677
