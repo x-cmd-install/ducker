@@ -4,7 +4,7 @@
 
 A slightly quackers Docker TUI based on k9s 🦆
 
-![ducker](https://repo.x-cmd.io/ducker.svg)
+[![x-cmd/install — ducker Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ducker.svg)](https://x-cmd.com/install/ducker)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **8,498** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 930 · **Forks**: 26 · **Open issues**: 19 · **Contributors**: 11
+- **Stars**: 931 · **Forks**: 26 · **Open issues**: 19 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **8,498** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 4 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 0 | 0 | 4 | 0 | 0 | 1 |
-| last180d | 2026-03-22 | 0 | 3 | 6 | 0 | 1 | 3 |
-| 360d | 2025-09-23 | 15 | 69 | 7 | 0 | 1 | 74 |
-| last720d | 2024-09-28 | 26 | 135 | 7 | 6 | 7 | 139 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 4 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 0 | 0 | 4 | 0 | 0 | 1 |
+| last180d | 2026-03-24 | 0 | 2 | 6 | 0 | 1 | 3 |
+| 360d | 2025-09-25 | 15 | 69 | 7 | 0 | 1 | 57 |
+| last720d | 2024-09-30 | 26 | 134 | 7 | 6 | 7 | 139 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ducker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:49:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:08Z._
