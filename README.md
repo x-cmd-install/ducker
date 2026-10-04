@@ -37,7 +37,7 @@ Total: **8,498** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 931 · **Forks**: 27 · **Open issues**: 19 · **Contributors**: 11
+- **Stars**: 932 · **Forks**: 27 · **Open issues**: 19 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **8,498** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-05 | 0 | 0 | 4 | 0 | 0 | 1 |
-| last180d | 2026-04-06 | 0 | 1 | 5 | 0 | 1 | 1 |
-| 360d | 2025-10-08 | 11 | 55 | 7 | 0 | 1 | 55 |
-| last720d | 2024-10-13 | 26 | 133 | 7 | 6 | 7 | 139 |
+| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-06 | 0 | 0 | 4 | 0 | 0 | 1 |
+| last180d | 2026-04-07 | 0 | 1 | 5 | 0 | 1 | 1 |
+| 360d | 2025-10-09 | 11 | 55 | 7 | 0 | 1 | 53 |
+| last720d | 2024-10-14 | 26 | 132 | 7 | 6 | 7 | 139 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ducker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:34:33Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:55:19Z._
