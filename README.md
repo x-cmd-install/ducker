@@ -47,12 +47,22 @@ Total: **8,498** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 4 | 0 | 0 | 1 |
-| last180d | 2026-04-25 | 0 | 1 | 5 | 0 | 0 | 1 |
-| 360d | 2025-10-27 | 10 | 49 | 7 | 0 | 1 | 50 |
-| last720d | 2024-11-01 | 25 | 131 | 7 | 6 | 7 | 134 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 4 | 0 | 0 | 1 |
+| last180d | 2026-04-26 | 0 | 1 | 5 | 0 | 0 | 1 |
+| 360d | 2025-10-28 | 10 | 49 | 7 | 0 | 1 | 50 |
+| last720d | 2024-11-02 | 25 | 131 | 7 | 6 | 7 | 134 |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/ducker). **8** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.6.5` | ✅ latest |
+| Homebrew | `0.6.5` | ✅ latest |
+| Nix unstable | `0.6.5` | ✅ latest |
 
 ## Improve this data
 
@@ -63,4 +73,4 @@ Install metadata for ducker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:47:14Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:46:19Z._
