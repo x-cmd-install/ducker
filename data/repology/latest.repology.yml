@@ -1,0 +1,84 @@
+- repo: arch
+  subrepo: extra
+  srcname: ducker
+  binname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: 0.6.5-2
+  status: newest
+  summary: A terminal app for managing docker containers
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Slightly quackers Docker TUI based on k9s
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ducker
+  binname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: 0.6.5-2
+  status: newest
+  summary: A terminal app for managing docker containers
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ducker
+  binname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: 0.6.5-2
+  status: newest
+  summary: A terminal app for managing docker containers
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ducker
+  binname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: 0.6.5-2
+  status: newest
+  summary: A terminal app for managing docker containers
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Terminal app for managing docker containers, inspired by K9s
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: null
+  status: newest
+  summary: Terminal app for managing docker containers, inspired by K9s
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: ducker
+  binname: ducker
+  visiblename: ducker
+  version: 0.6.5
+  origversion: 0.6.5-2
+  status: newest
+  summary: A terminal app for managing docker containers
+  licenses:
+    - MIT
